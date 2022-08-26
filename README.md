@@ -1,5 +1,5 @@
-# URL-shortener-using-Node
+# URL-shortener-using-EJS-and-Node.js
 
 ![Screenshot](frontpage.png)
 
-Encurtador de URL utilizando Node.js e Mongoose.
+Encurtador de URL utilizando EJS, Node.js e Mongoose.
